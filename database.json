@@ -1,0 +1,58 @@
+{
+    "animals": [
+        { "id": 1, "name": "Doodles", "breed": "Poodle"},
+        { "id": 2, "name": "Parsley", "breed": "Great Dane" },
+        { "id": 3, "name": "Bacon", "breed": "Best Pitbull" },
+        { "id": 4, "name": "Winter", "breed": "Tiny Pupper"},
+        { "id": 5, "name": "Hagg", "breed": "BloodHound" },
+        { "id": 6, "name": "Dega", "breed": "Dingo" }, 
+        { "id": 7, "name": "Major", "breed": "Cane Corso"},
+        { "id": 8, "name": "Vera", "breed": "Lab" },
+        { "id": 9, "name": "George", "breed": "GoldenDooder" }
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "Luke Skywalker",
+            "address": "976 Tatooine Dr."
+        },
+         {
+            "id": 2,
+            "name": "Indira Hyderabaddie",
+            "address": "0690 H20 Lane"
+        },
+        {
+            "id": 3,
+            "name": "Angelina",
+            "address": "1423 Oregon Drive North-NorthWest"
+        },
+         {
+            "id": 4,
+            "name": "Anastasia",
+            "address": "0893 Gets Litty St"
+        },
+        {
+            "id": 5,
+            "name": "Chelsea",
+            "address": "8273 Don'tchaknow Dr."
+        },
+         {
+            "id": 6,
+            "name": "Maggie",
+            "address": "2837 Wowwww Lane"
+        }
+    ],
+    "employees": [],
+    "locations": [
+        {
+            "id": 1,
+            "name": "Nashville North",
+            "address": "8422 Johnson Pike"
+        },
+        {
+            "id": 2,
+            "name": "Nashville South",
+            "address": "209 Emory Drive"
+        }
+    ]
+}
